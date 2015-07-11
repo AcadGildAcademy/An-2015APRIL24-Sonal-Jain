@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Rainbow</string>
+    <string name="Red">Red</string>
+    <string name="Orange">Orange</string>
+    <string name="Yellow">Yellow</string>
+    <string name="Green">Green</string>
+    <string name="Blue">Blue</string>
+    <string name="Indigo">Indigo</string>
+    <string name="Violet">Violet</string>
+    <color name="Red">#ffff0000</color>
+    <color name="Orange">#ffffA500</color>
+    <color name="Yellow">#fffff433</color>
+    <color name="Green">#ff00ff00</color>
+    <color name="Blue">#ff0000ff</color>
+    <color name="Indigo">#ff4B0082</color>
+    <color name="Violet">#ffEE82EE</color>
+    <dimen name="text_size">30dp</dimen>
+<string name="action_settings">Settings</string>
+
+</resources>
